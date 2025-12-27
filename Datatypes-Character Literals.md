@@ -13,6 +13,5 @@ print("T")
 print("a")
 ```
 ## Output
-![Uploading image.png…]()
-
+<img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/cc2bddaf-cb31-46c7-97b9-e721ba88cba5" />
 ## Result
