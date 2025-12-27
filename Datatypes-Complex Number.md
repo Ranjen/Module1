@@ -26,6 +26,5 @@ print(x.real)
 print(x.imag)
 ```
 ## Output
-![Uploading image.png…]()
-
+<img width="896" height="232" alt="image" src="https://github.com/user-attachments/assets/ea789187-c696-4b23-bf3d-da9c9421f39a" />
 ## Result
