@@ -13,6 +13,5 @@ To write a Python program to read a string from the user and then print it.
 print(men_stepped_on_the_moon)
 ```
 ## Output
-![Uploading image.png…]()
-
+<img width="854" height="259" alt="image" src="https://github.com/user-attachments/assets/ee02b609-075f-472c-abae-1dc23424b433" />
 ## Result
